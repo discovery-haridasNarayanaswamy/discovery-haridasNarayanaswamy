@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @discovery-haridasNarayanaswamy
+- 👋 Hi, I’m Haridas Narayanaswamy, you can call me "hari"
 - 👀 I’m interested in Data Science / Data Engineering / MLOps
 - 🌱 I’m currently learning Model Inference Optimisation via graph pruning
 - 📫 How to reach me https://haridas.in
